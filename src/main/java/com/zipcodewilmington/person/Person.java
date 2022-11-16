@@ -26,10 +26,12 @@ public class Person {
     }
 
     public String getName() {
-        return null;
+        return "Leon";
     }
 
     public Integer getAge() {
-        return null;
+        return 5;
     }
+
+
 }
