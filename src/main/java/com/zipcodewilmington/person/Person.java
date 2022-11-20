@@ -8,8 +8,8 @@ public class Person {
     private int age;
 
     public Person() {
-        name = " ";
-        age = 0;
+        name ="";
+        age = Integer.MAX_VALUE;
     }
 
     public Person(int age) {
